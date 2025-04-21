@@ -13,5 +13,3 @@ Easily integratable into any Java web application.
 - Java EE (Servlets)
 - WebSocket API
 - HTML/CSS/JavaScript (vanilla)
-
-## 📂 Project Structure
